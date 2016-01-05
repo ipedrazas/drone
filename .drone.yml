@@ -31,5 +31,5 @@ publish:
       - "latest" 
       - "0.4"
     when:
-      repo: drone/drone
+      repo: ipedrazas/drone
       branch: master
