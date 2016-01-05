@@ -24,7 +24,7 @@ compose:
 publish:
   docker:
     username: ipedrazas
-    password: $$DOCKER_PASS
+    password: $$DOCKER_PASSWORD
     email: $$DOCKER_EMAIL
     repo: ipedrazas/drone
     tag:
